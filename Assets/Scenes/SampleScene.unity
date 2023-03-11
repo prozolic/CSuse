@@ -354,7 +354,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _effectSettings:
     enable: 0
-    effectPattern: 1
+    effectPattern: 2
+  _sepiaSettings:
+    rate: 0.974
 --- !u!114 &330585549
 MonoBehaviour:
   m_ObjectHideFlags: 0
